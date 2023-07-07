@@ -1,5 +1,4 @@
-# Hi there! 👋
-
+<h1 align="center">Hi 👋, my name is : Arup Sankar Reang</h1>
 Welcome to my GitHub profile! I'm [Your Name], and I'm passionate about [your interests or areas of expertise]. Here you'll find a collection of my projects and contributions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cion247&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>

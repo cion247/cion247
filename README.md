@@ -1,20 +1,28 @@
 <h1 align="center">Hi 👋, my name is : Arup Sankar Reang</h1>
-Welcome to my GitHub profile! I'm [Your Name], and I'm passionate about [your interests or areas of expertise]. Here you'll find a collection of my projects and contributions.
+Welcome to my GitHub profile! I'm Arup , and I'm passionate about machine learning and web development <br/>
+Here you'll find a collection of my projects and contributions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cion247&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
-## About Me
 
-- 🌱 I'm currently learning [specific technologies or skills].
-- 💼 I'm currently working as a [your current role or occupation].
-- 🔭 I'm interested in [specific topics or areas of focus].
-- <img src="giphy.webp" alt="crab" width="300" height="300">
+
+<p align="center">
+  <img src="giphy.webp" alt="Left Image" width="200" align="left">
+</p>
+
+## About Me
+- 🌱 I'm currently working on being better at making deep learning models.
+- 💼 I'm currently studying as a student.
+- 🔭 I'm interested in discovering new technologies.
+- 💻 I do competetive programing on the week ends.
+ <br/>
+ 
 
 ## Skills
 
-- Programming Languages: [List of programming languages you're proficient in]
-- Tools & Technologies: [List of tools and technologies you have experience with]
+- Programming Languages: [java, python, html,css]
+- Tools & Technologies: [git,gthub,vs Code,]
 - Frameworks & Libraries: [List of frameworks and libraries you're familiar with]
-- Other Skills: [Any additional skills or relevant information]
+- Other Skills: [experience with rasberry pico]
 
 ## Projects
 

@@ -19,7 +19,7 @@ Here you'll find a collection of my projects and contributions.
 
 ## Skills
 
-- Programming Languages: [java, python, html,css]
+- Programming Languages: [java, python, html,css,mySQL]
 - Tools & Technologies: [git,gthub,vs Code,]
 - Frameworks & Libraries: [List of frameworks and libraries you're familiar with]
 - Other Skills: [experience with rasberry pico]

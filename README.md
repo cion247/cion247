@@ -21,16 +21,15 @@ Here you'll find a collection of my projects and contributions.
 
 - Programming Languages: [java, python, html,css,mySQL]
 - Tools & Technologies: [git,gthub,vs Code,]
-- Frameworks & Libraries: [List of frameworks and libraries you're familiar with]
-- Other Skills: [experience with rasberry pico]
+- Other Skills: [experience with rasberry pi pico and arduino]
 
 ## Projects
 
 Here are a few noteworthy projects I've worked on:
 
-- [Project 1](link-to-project): Brief description of the project.
-- [Project 2](link-to-project): Brief description of the project.
-- [Project 3](link-to-project): Brief description of the project.
+- [Algorac]: a small website made for the university coding club.
+- [resnet flower classification]: using resent50v2 to train a flower classification model.
+
 
 Feel free to explore my repositories for more projects and code samples.
 
@@ -38,12 +37,9 @@ Feel free to explore my repositories for more projects and code samples.
 
 I'm always open to interesting conversations and collaboration opportunities. You can reach out to me via:
 
-- Email: [your email address]
-- LinkedIn: [your LinkedIn profile URL]
-- Twitter: [your Twitter handle]
-- Personal Website/Blog: [your website or blog URL]
+- Email: [arupsankarreang@gmial.com]
+- LinkedIn: [(https://www.linkedin.com/in/arup-sankar-reang-b1a902296/)]
 
 Don't hesitate to get in touch if you have any questions or just want to say hi! 😄
-
 <!-- Add any additional sections or information you'd like to include -->
 

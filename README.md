@@ -29,6 +29,7 @@ Here are a few noteworthy projects I've worked on:
 
 - [Algorac]: a small website made for the university coding club.
 - [resnet flower classification]: using resent50v2 to train a flower classification model.
+- [my room]: a python game made using pygmae, the game is a collection of small games come in the genre of causal lofi games
 - [time series forecasting]: co2 level prediction and BTC/USD market prediction models
 
 Feel free to explore my repositories for more projects and code samples.
